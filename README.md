@@ -4,7 +4,7 @@
    - Maven is an attempt to apply patterns to a project's build infrastructure in order to promote comprehension and productivity by providing a clear path in the  use of best practices.
 # How to add Scala in Maven?
    - Build a new project "Maven_Assignment" 
-   - open Module Setting and library Scala 
+   - open Module Setting add library Scala 
    - Select Version
    - And click OK
  Create a scala program
