@@ -10,8 +10,7 @@
  Create a scala program
 # Creating a calculator class 
   - As in my project I created two class Calculator.scala and CalImpl.scala
-  
- 
+   
 # How to Run 
   mvn clean install
 # How to verify
